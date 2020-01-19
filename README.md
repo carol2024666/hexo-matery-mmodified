@@ -12,3 +12,5 @@ http://ishuaizhang.com
 欢迎大家去[伟阳学长的博客](https://godweiyang.com/)下面学习详细的搭建和使用方法。
 
 [超详细Hexo+Github博客搭建小白教程](https://godweiyang.com/2018/04/13/hexo-blog/)
+
+本人才疏学浅，并未对伟阳学长的博客模板的发展做出贡献，欢迎各位喜欢折腾和有能力做出改进的同学到[伟阳学长的主页](https://github.com/godweiyang)fork他的博客模板哦。
