@@ -9,6 +9,6 @@ http://ishuaizhang.com
 http://ishuaizhang.com
 
 ## 使用方法
-欢迎大家去伟阳学长的博客下面学习详细的搭建和使用方法。
+欢迎大家去[伟阳学长的博客](https://godweiyang.com/)下面学习详细的搭建和使用方法。
 
 [超详细Hexo+Github博客搭建小白教程](https://godweiyang.com/2018/04/13/hexo-blog/)
